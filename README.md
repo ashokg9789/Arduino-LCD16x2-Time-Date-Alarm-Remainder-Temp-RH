@@ -15,3 +15,5 @@ This repository is about to display of current Time, Date with Week day/number, 
 >> Button(3) DEC : Can able to decrease the number or turned OFF/ON. This button also helps to turn OFF Single-time or Repeated or Remainder Alarm.
  
 >> Button(4) INC : Can able to increase the number and/or turned OFF/ON. This button also helps to turn OFF Single-time or Repeated or Remainder Alarm. 
+
+![RTC_ARDUINO_CLOCK_TEMP_RH](https://github.com/ashokg9789/Arduino-LCD16x2-Time-Date-Alarm-Remainder-Temp-RH/assets/83178640/f7afe37e-3f69-4007-a96b-19e4bff4ec9c)
